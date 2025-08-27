@@ -22,9 +22,6 @@ I enjoy creating projects that solve real-world problems and demonstrate my skil
 ### [WeatherApp](https://locationweather.vercel.app/)
 A simple weather application built with React that displays the current weather and a 5-day forecast for any city using the OpenWeatherMap API.
 
-### [Donation Portal](https://github.com/ayif7991/donation-portal)
-A web application designed to facilitate online donations, built with HTML and CSS.
-
 ### [Facebook Poster Automation](https://github.com/ayif7991/Facebook-poster)
 Automates the process of posting on Facebook using Python and Selenium.
 
