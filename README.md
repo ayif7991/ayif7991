@@ -1,7 +1,7 @@
 # Hi, I'm Alfiya 👋
 
 Software developer at [Sensara](https://www.sensara.eu), based in the Netherlands. 
-I build with Python and JavaScript — currently focused on React frontends.
+I build with JavaScript — currently focused on React frontends.
 
 ## What I work with
 Python · JavaScript · React · Flask · Selenium
